@@ -1,0 +1,14 @@
+body{background-color: rgb(234, 235, 255);}
+
+#tlacitko{width:200px;
+height: 100px;
+background-color: rgb(155, 155, 255);
+position: absolute;
+right: 44%;
+top: 10%;
+
+}
+#tlacitko:hover{
+    transition: 2s;
+    background-color: rgb(131, 131, 253);
+}
